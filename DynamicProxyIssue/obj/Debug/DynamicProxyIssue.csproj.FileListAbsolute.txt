@@ -1,0 +1,16 @@
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\DynamicProxyIssue.exe.config
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\DynamicProxyIssue.exe
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\DynamicProxyIssue.pdb
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\Castle.Core.dll
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\Castle.Core.xml
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\obj\Debug\DynamicProxyIssue.csprojAssemblyReference.cache
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\obj\Debug\DynamicProxyIssue.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\obj\Debug\DynamicProxyIssue.csproj.CopyComplete
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\obj\Debug\DynamicProxyIssue.exe
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\obj\Debug\DynamicProxyIssue.pdb
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\LinqKit.dll
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Documents\Visual Studio 2017\Projects\StackOverflow\DynamicProxyIssue\bin\Debug\LinqKit.xml
