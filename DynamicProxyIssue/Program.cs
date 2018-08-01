@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,10 +22,21 @@ namespace DynamicProxyIssue
 
             var proxy = ProxyGenerator.CreateInterfaceProxyWithTarget<IEntity1<Entity2>>(source, new Interceptor());
 
-            foreach(var detail in proxy.Details)
+            var details = proxy.Details;
+
+            using (var enumerator = details.GetEnumerator())
+            {
+                while (enumerator.MoveNext())
+                {
+                    var detail = enumerator.Current;
+                    Console.WriteLine($"Detail: Value = {detail.Value} - Type: {detail.GetType()}");
+                }
+            }
+
+            foreach (var detail in details)
                 Console.WriteLine($"Detail: Value = {detail.Value} - Type: {detail.GetType()}");
 
-            Console.WriteLine();
+            Console.WriteLine(string.Empty);
 
             proxy.Details.ToList().ForEach(detail => Console.WriteLine($"Detail: Value = {detail.Value} - Type: {detail.GetType()}"));
 
